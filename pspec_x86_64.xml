@@ -1,0 +1,45 @@
+<PISI>
+    <Source>
+        <Name>osmo</Name>
+        <Packager>
+            <Name>Bryan T. Meyers</Name>
+            <Email>bmeyers@datadrake.com</Email>
+        </Packager>
+        <License>GPL-2.0</License>
+        <PartOf>office</PartOf>
+        <Summary xml:lang="en">Osmo is a handy personal organizer, which includes calendar, tasks manager, address book and notes modules.</Summary>
+        <Description xml:lang="en">Osmo is a handy personal organizer, which includes calendar, tasks manager, address book and notes modules.
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>osmo</Name>
+        <Summary xml:lang="en">Osmo is a handy personal organizer, which includes calendar, tasks manager, address book and notes modules.</Summary>
+        <Description xml:lang="en">Osmo is a handy personal organizer, which includes calendar, tasks manager, address book and notes modules.
+</Description>
+        <PartOf>office</PartOf>
+        <Files>
+            <Path fileType="executable">/usr/bin</Path>
+            <Path fileType="data">/usr/share/applications/osmo.desktop</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/16x16/apps/osmo.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/22x22/apps/osmo.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/24x24/apps/osmo.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/32x32/apps/osmo.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/48x48/apps/osmo.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/scalable/apps/osmo.svg</Path>
+            <Path fileType="localedata">/usr/share/locale</Path>
+            <Path fileType="man">/usr/share/man</Path>
+            <Path fileType="data">/usr/share/pixmaps/osmo.png</Path>
+            <Path fileType="data">/usr/share/sounds/osmo/alarm.wav</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2016-10-23</Date>
+            <Version>0.2.14</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Bryan T. Meyers</Name>
+            <Email>bmeyers@datadrake.com</Email>
+        </Update>
+    </History>
+</PISI>
