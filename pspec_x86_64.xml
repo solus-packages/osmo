@@ -2,8 +2,8 @@
     <Source>
         <Name>osmo</Name>
         <Packager>
-            <Name>Rex Morgan</Name>
-            <Email>rex@rexflex.net</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Packager>
         <License>GPL-2.0</License>
         <PartOf>office.notes</PartOf>
@@ -34,12 +34,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="4">
-            <Date>2017-05-18</Date>
+        <Update release="5">
+            <Date>2017-10-08</Date>
             <Version>0.4.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Rex Morgan</Name>
-            <Email>rex@rexflex.net</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
         </Update>
     </History>
 </PISI>

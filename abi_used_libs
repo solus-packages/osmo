@@ -13,4 +13,5 @@ libnotify.so.4
 libpango-1.0.so.0
 libpangocairo-1.0.so.0
 libpthread.so.0
+libwebkit2gtk-4.0.so.37
 libxml2.so.2
