@@ -6,8 +6,8 @@ libglib-2.0.so.0
 libgobject-2.0.so.0
 libgspell-1.so.1
 libgtk-3.so.0
-libical.so.2
-libicalss.so.2
+libical.so.3
+libicalss.so.3
 libm.so.6
 libnotify.so.4
 libpango-1.0.so.0
