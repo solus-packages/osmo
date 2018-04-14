@@ -1,6 +1,6 @@
 name       : osmo
 version    : 0.4.2
-release    : 7
+release    : 8
 source     :
     - https://vorboss.dl.sourceforge.net/project/osmo-pim/osmo-pim/osmo-0.4.2/osmo-0.4.2.tar.gz : 5b50e5b98daea986e18034ee1ef8f70ee2018be0802f6053c6d74d2613274dbe
 license    : GPL-2.0
