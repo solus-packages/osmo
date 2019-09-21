@@ -1,12 +1,11 @@
 name       : osmo
 version    : 0.4.2
-release    : 10
+release    : 11
 source     :
-    - https://vorboss.dl.sourceforge.net/project/osmo-pim/osmo-pim/osmo-0.4.2/osmo-0.4.2.tar.gz : 5b50e5b98daea986e18034ee1ef8f70ee2018be0802f6053c6d74d2613274dbe
+    - https://netcologne.dl.sourceforge.net/project/osmo-pim/osmo-pim/osmo-0.4.2/osmo-0.4.2.tar.gz : 5b50e5b98daea986e18034ee1ef8f70ee2018be0802f6053c6d74d2613274dbe
 license    : GPL-2.0-or-later
 component  : office.notes
-summary    : Osmo is a handy personal organizer, which includes calendar, tasks manager,
-    address book and notes modules.
+summary    : Osmo is a handy personal organizer, which includes calendar, tasks manager, address book and notes modules.
 description: |
     Osmo is a handy personal organizer, which includes calendar, tasks manager, address book and notes modules.
 builddeps  :

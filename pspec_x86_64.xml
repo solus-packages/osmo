@@ -64,8 +64,8 @@
         </Files>
     </Package>
     <History>
-        <Update release="10">
-            <Date>2019-04-20</Date>
+        <Update release="11">
+            <Date>2019-09-21</Date>
             <Version>0.4.2</Version>
             <Comment>Packaging update</Comment>
             <Name>Joshua Strobl</Name>
